@@ -1,2 +1,2 @@
-declare module 'react-jigsaw-puzzle/lib';
-declare module 'react-jigsaw-puzzle/lib/jigsaw-puzzle.css';
+declare module 'react-jigsaw-puzzle/src';
+declare module 'react-jigsaw-puzzle/src/jigsaw-puzzle.css';
